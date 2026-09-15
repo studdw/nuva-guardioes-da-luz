@@ -166,10 +166,9 @@ Turma 1TDSPV — FIAP
 | Foto | Nome | RM | GitHub | LinkedIn |
 |---|---|---|---|---|
 | <img src="https://github.com/studdw.png" width="60" /> | Lucas Kaftan | 571302 | [studdw](https://github.com/studdw) | [LinkedIn](https://www.linkedin.com/in/lucas-pasturuti-354523273/) |
-| <img src="https://github.com/LucasCabral0603.png" width="60" /> | Lucas Luque Cabral | 573347 | [LucasCabral0603](https://github.com/LucasCabral0603) | [LinkedIn](https://www.linkedin.com/in/lucas-luque-cabral-660940350/) |
 | <img src="https://github.com/IuRuas.png" width="60" /> | Matheus Iumatti | 571047 | [IuRuas](https://github.com/IuRuas) | [LinkedIn](https://www.linkedin.com/in/matheus-iumatti-ruas-6923352bb/) |
 | <img src="https://github.com/ViniEsposito-dev.png" width="60" /> | Vinicius Silveira Espósito | 571844 | [ViniEsposito-dev](https://github.com/ViniEsposito-dev) | [LinkedIn](https://www.linkedin.com/in/vinicius-silveira-esposito-107a2a25a/) |
-| (foto a definir) | Joao Carlos | a definir | a definir | a definir |
+| <img src="https://media.licdn.com/dms/image/v2/D4D03AQGAxyYOO32cbg/profile-displayphoto-scale_200_200/B4DZyMkw6rGQAY-/0/1771884974274?e=1790812800&v=beta&t=7lYqChDauJ_rySa7UjrDy9VkeF4Zq_GlJus2EzWxd9w" width="60" /> | Joao Carlos Lopes | 568952 | [ViniEsposito-dev](https://github.com/jocax007) | [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-carlos-lopes-957976264/) |
 
 ---
 
