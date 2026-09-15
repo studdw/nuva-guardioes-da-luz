@@ -154,8 +154,8 @@ npm run build
 npm run preview
 ```
 
-**Repositório:** https://github.com/SEU-USUARIO/nuva-guardioes-da-luz
-**Vídeo de apresentação (YouTube, até 3 minutos):** https://youtube.com/COLOQUE-O-LINK-AQUI
+**Repositório:** https://github.com/studdw/nuva-guardioes-da-luz
+**Vídeo de apresentação (YouTube, até 3 minutos):** https://youtube.com/ApZ-sgT1jLw?feature=shared
 
 ---
 
